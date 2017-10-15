@@ -17,3 +17,4 @@ Problem 5. Sort 3 number. (index 활용)
 		>> 효율적인 교환 조건이 뭐가 있을까?
 		
 Problem 6. Word matching (permutation)
+		>> 실행 시간 상 입력된 word를 기준으로 그 다음 큰 단어를 만드는 것이 정답이지만..
