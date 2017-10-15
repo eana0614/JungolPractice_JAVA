@@ -6,19 +6,28 @@ Problem Site : http://www.jungol.co.kr
 
 Problem 1. Line up (easy)
 
-Problem 2. Calendar (ÀÌ¹Ì JAVA¿¡ Calendar ±â´ÉÀÌ ÀÖ´Âµ¥ ¾îµð±îÁö ½á¾ßÇÏ´ÂÁö ¸ð¸£°Ú´Ù.)
 
-Problem 3. Prime Number 369 (¼Ò¼öÀÎÁö ¾Æ´ÑÁö ±¸ºÐ ½Ã°£ »ý°¢ ÇÊ¼ö)
+Problem 2. Calendar (ì´ë¯¸ JAVAì— Calendar ê¸°ëŠ¥ì´ ìžˆëŠ”ë° ì–´ë””ê¹Œì§€ ì¨ì•¼í•˜ëŠ”ì§€ ëª¨ë¥´ê² ë‹¤.)
+
+
+Problem 3. Prime Number 369 (ì†Œìˆ˜ì¸ì§€ ì•„ë‹Œì§€ êµ¬ë¶„ ì‹œê°„ ìƒê° í•„ìˆ˜)
+
 
 Problem 4. Browser ( Stack )
-		>> ÅØ½ºÆ® ºñ±³±â·Î Æ²·È´Ù´Â °á°ú °ª ºñ±³ÇßÀ»¶§ ´Ù¸¥°Å ¾ø´Âµ¥ Æ²·È´Ù°í ¶ä..(¹¹Áö)
-		
-Problem 5. Sort 3 number. (index È°¿ë)
-		>> È¿À²ÀûÀÎ ±³È¯ Á¶°ÇÀÌ ¹¹°¡ ÀÖÀ»±î?
-		
+	>> í…ìŠ¤íŠ¸ ë¹„êµê¸°ë¡œ í‹€ë ¸ë‹¤ëŠ” ê²°ê³¼ ê°’ ë¹„êµí–ˆì„ë•Œ ë‹¤ë¥¸ê±° ì—†ëŠ”ë° í‹€ë ¸ë‹¤ê³  ëœ¸..(ë­ì§€)
+	
+	
+Problem 5. Sort 3 number. (index í™œìš©)
+	>> íš¨ìœ¨ì ì¸ êµí™˜ ì¡°ê±´ì´ ë­ê°€ ìžˆì„ê¹Œ?
+
+
 Problem 6. Word matching (permutation)
-		>> ½ÇÇà ½Ã°£ »ó ÀÔ·ÂµÈ word¸¦ ±âÁØÀ¸·Î ±× ´ÙÀ½ Å« ´Ü¾î¸¦ ¸¸µå´Â °ÍÀÌ Á¤´äÀÌÁö¸¸..
+	>> ì‹¤í–‰ ì‹œê°„ ìƒ ìž…ë ¥ëœ wordë¥¼ ê¸°ì¤€ìœ¼ë¡œ ê·¸ ë‹¤ìŒ í° ë‹¨ì–´ë¥¼ ë§Œë“œëŠ” ê²ƒì´ ì •ë‹µì´ì§€ë§Œ..
+
 
 Problem 7. Error Correction (Parity test)
 
+
 Problem 8. Mass
+
+
