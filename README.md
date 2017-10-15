@@ -14,3 +14,6 @@ Problem 4. Browser ( Stack )
 		>> 텍스트 비교기로 틀렸다는 결과 값 비교했을때 다른거 없는데 틀렸다고 뜸..(뭐지)
 		
 Problem 5. Sort 3 number. (index 활용)
+		>> 효율적인 교환 조건이 뭐가 있을까?
+		
+Problem 6. Word matching (permutation)
