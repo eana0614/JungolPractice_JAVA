@@ -20,3 +20,5 @@ Problem 6. Word matching (permutation)
 		>> 실행 시간 상 입력된 word를 기준으로 그 다음 큰 단어를 만드는 것이 정답이지만..
 
 Problem 7. Error Correction (Parity test)
+
+Problem 8. Mass
