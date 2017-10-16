@@ -21,3 +21,5 @@ Problem 7. Error Correction (Parity test)
 Problem 8. Mass
 
 Problem 9. Sumsets (Recursive)
+
+Problem 10. Line drawing
